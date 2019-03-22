@@ -1,0 +1,146 @@
+[
+    {
+        "symbol": "Aries",
+        "start": {
+            "month": "March",
+            "day": 21
+        },
+        "end": {
+            "month": "April",
+            "day": 19
+        },
+        "reading": "It's time to take some time to meditate on the answers. This will allow you to to the answers will become more clear."
+    },
+    {
+        "symbol": "Taurus",
+        "start": {
+            "month": "April",
+            "day": 20
+        },
+        "end": {
+            "month": "May",
+            "day": 20
+        },
+        "reading": "No doubt, you will uncover something you never knew you deserved, and it will make you rethink things. Sieze this day as your own."
+    },
+    {
+        "symbol": "Gemini",
+        "start": {
+            "month": "May",
+            "day": 21
+        },
+        "end": {
+            "month": "June",
+            "day": 20
+        },
+        "reading": "You may want someone you trust to give you advice that really won't help you."
+    },
+    {
+        "symbol": "Cancer",
+        "start": {
+            "month": "June",
+            "day": 21
+        },
+        "end": {
+            "month": "July",
+            "day": 22
+        },
+        "reading": "Always remember that someone you trust to suggest to you that you already know the solution."
+    },
+    {
+        "symbol": "Leo",
+        "start": {
+            "month": "July",
+            "day": 23
+        },
+        "end": {
+            "month": "August",
+            "day": 22
+        },
+        "reading": "Seek the advice of a person you meet in passing to steer you in the wrong direction. Don't take any big risks that you may regret."
+    },
+    {
+        "symbol": "Virgo",
+        "start": {
+            "month": "August",
+            "day": 23
+        },
+        "end": {
+            "month": "September",
+            "day": 22
+        },
+        "reading": "Are you thinking about making a job move? Some time in the coming week will prove to be the right time and it will be time to act."
+    },
+    {
+        "symbol": "Libra",
+        "start": {
+            "month": "September",
+            "day": 23
+        },
+        "end": {
+            "month": "October",
+            "day": 22
+        },
+        "reading": "If you have doubts, you need to have confidence in yourself. Understand that there's nothing wrong with making a bad decision, once in a while."
+    },
+    {
+        "symbol": "Scorpio",
+        "start": {
+            "month": "October",
+            "day": 23
+        },
+        "end": {
+            "month": "November",
+            "day": 21
+        },
+        "reading": "Today you can turn your life around. The way to start is by spending a little less money, while saving a bit more, and accepting it for what it is."
+    },
+    {
+        "symbol": "Sagittarius",
+        "start": {
+            "month": "November",
+            "day": 22
+        },
+        "end": {
+            "month": "December",
+            "day": 21
+        },
+        "reading": "This week you should take a ten-minute cold shower. If you can, you'll understand who you really are."
+    },
+    {
+        "symbol": "Capricorn",
+        "start": {
+            "month": "December",
+            "day": 22
+        },
+        "end": {
+            "month": "January",
+            "day": 19
+        },
+        "reading": "Are you considering taking a trip? Ambiguity aside, this might be the day you become who you are and everything changed for the better."
+    },
+    {
+        "symbol": "Aquarius",
+        "start": {
+            "month": "January",
+            "day": 20
+        },
+        "end": {
+            "month": "February",
+            "day": 18
+        },
+        "reading": "Look to someone younger to just tell you what you want to hear."
+    },
+    {
+        "symbol": "Pisces",
+        "start": {
+            "month": "February",
+            "day": 19
+        },
+        "end": {
+            "month": "March",
+            "day": 20
+        },
+        "reading": "If you need guidance, then join the club. But remember, it's not just about Do or Do Not, it's about the actual consequences on your life."
+    }
+]
